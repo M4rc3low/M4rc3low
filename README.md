@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low/main/assets/profile-banner.svg" width="100%" alt="Marcelo Gomes - Software Development, Cloud e DevOps" />
+<img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low/main/assets/profile-banner.png" width="100%" alt="Marcelo Gomes - Software Development, Cloud e DevOps" />
 
 <br/>
 
@@ -50,11 +50,9 @@ Build → Measure → Automate → Improve
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low/main/assets/github-dashboard.svg" width="100%" alt="GitHub Engineering Dashboard de Marcelo Gomes" />
+<img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low/main/assets/github-dashboard.png" width="100%" alt="GitHub Engineering Dashboard de Marcelo Gomes" />
 
 </div>
-
-> O painel acima fica armazenado no próprio repositório. Assim, o perfil não depende dos cards externos de estatísticas que estavam apresentando erro.
 
 ## 🚀 Projetos em destaque
 
