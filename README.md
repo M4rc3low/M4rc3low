@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Marcelo Gomes - Software Development, Cloud e DevOps" />
+<img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low/main/assets/profile-banner.svg" width="100%" alt="Marcelo Gomes - Software Development, Cloud e DevOps" />
 
 <br/>
 
@@ -46,54 +46,25 @@ Build → Measure → Automate → Improve
 
 </div>
 
-## 📊 GitHub dashboard
+## 📊 Painel do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rc3low&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rc3low&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Linguagens mais utilizadas" />
-
-<br/>
-
-<img width="68%" src="https://streak-stats.demolab.com?user=M4rc3low&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M4rc3low&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Gráfico de atividade no GitHub" />
+<img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low/main/assets/github-dashboard.svg" width="100%" alt="GitHub Engineering Dashboard de Marcelo Gomes" />
 
 </div>
+
+> O painel acima fica armazenado no próprio repositório. Assim, o perfil não depende dos cards externos de estatísticas que estavam apresentando erro.
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/M4rc3low/peritolex-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=M4rc3low&repo=peritolex-app&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PeritoLex" />
-</a>
-<a href="https://github.com/M4rc3low/geoterritorios-marcelo-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=M4rc3low&repo=geoterritorios-marcelo-app&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GeoTerritorios" />
-</a>
-
-<a href="https://github.com/M4rc3low/amm-materiais-construcao">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=M4rc3low&repo=amm-materiais-construcao&theme=tokyonight&hide_border=true&bg_color=00000000" alt="AMM Materiais de Construção" />
-</a>
-<a href="https://github.com/M4rc3low/aws-monitoring-lab">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=M4rc3low&repo=aws-monitoring-lab&theme=tokyonight&hide_border=true&bg_color=00000000" alt="AWS Monitoring Lab" />
-</a>
-
-</div>
-
-### ⚖️ PeritoLex
-Aplicação web orientada a produtividade para organização de **processos, prazos, documentos, movimentações e alertas**, construída com React e uma arquitetura preparada para evoluir para backend e integrações externas.
-
-### 🗺️ GeoTerritórios
-Aplicação para organização e visualização de **territórios, endereços, indicadores e cobertura geográfica**, usando React, Leaflet, TanStack Query e Recharts.
-
-### 🏗️ AMM Materiais de Construção
-Projeto aplicado a um **negócio real**, criado para fortalecer presença digital, catálogo, atendimento e experiência do cliente com React, Vite e Tailwind CSS.
-
-### ☁️ AWS Monitoring Lab
-Laboratório de **observabilidade e infraestrutura**, combinando Docker Compose, PostgreSQL, Zabbix, Grafana e preparação para monitoramento de instâncias AWS.
+| Projeto | O que demonstra | Tecnologias / foco |
+| --- | --- | --- |
+| [⚖️ **PeritoLex**](https://github.com/M4rc3low/peritolex-app) | Organização de processos, prazos, documentos e alertas em uma aplicação orientada a produtividade | React, Vite, Tailwind, TanStack Query, Recharts |
+| [🗺️ **GeoTerritórios**](https://github.com/M4rc3low/geoterritorios-marcelo-app) | Organização territorial, mapas, indicadores e visualização geográfica de dados | React, Leaflet, TanStack Query, Recharts |
+| [🏗️ **AMM Materiais de Construção**](https://github.com/M4rc3low/amm-materiais-construcao) | Aplicação de tecnologia em um negócio real, presença digital e experiência do cliente | React, Vite, Tailwind CSS |
+| [☁️ **AWS Monitoring Lab**](https://github.com/M4rc3low/aws-monitoring-lab) | Observabilidade e monitoramento de infraestrutura | Docker Compose, PostgreSQL, Zabbix, Grafana, AWS |
+| [🏗️ **Terraform AWS Lab**](https://github.com/M4rc3low/terraform-aws-lab) | Infraestrutura reproduzível e versionada em nuvem | Terraform, AWS, Infrastructure as Code |
 
 ## ☁️ Cloud & DevOps lab
 
@@ -106,17 +77,6 @@ O GitHub também funciona como meu laboratório técnico. Aqui estou construindo
 - **GitHub Actions** — automação e CI/CD
 - **Zabbix + Grafana** — monitoramento e observabilidade
 - **Linux + Git** — base operacional e versionamento
-
-<div align="center">
-
-<a href="https://github.com/M4rc3low/terraform-aws-lab">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=M4rc3low&repo=terraform-aws-lab&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Terraform AWS Lab" />
-</a>
-<a href="https://github.com/M4rc3low/aws-monitoring-lab">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=M4rc3low&repo=aws-monitoring-lab&theme=tokyonight&hide_border=true&bg_color=00000000" alt="AWS Monitoring Lab" />
-</a>
-
-</div>
 
 ## 🎯 Em evolução
 
@@ -139,9 +99,5 @@ flowchart LR
 ### ⚡ Build. Deploy. Observe. Improve.
 
 `React` • `AWS` • `Docker` • `Terraform` • `Kubernetes` • `GitHub Actions`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
