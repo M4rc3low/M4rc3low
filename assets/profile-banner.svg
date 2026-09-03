@@ -37,7 +37,7 @@
 
   <rect x="713" y="116" width="184" height="42" rx="11" fill="#11182A" stroke="#334155"/>
   <circle cx="738" cy="137" r="6" fill="#34D399"/>
-  <text x="755" y="143" fill="#CBD5E1" font-family="monospace" font-size="15">building & learning</text>
+  <text x="755" y="143" fill="#CBD5E1" font-family="monospace" font-size="15">building &amp; learning</text>
 
   <text x="714" y="190" fill="#64748B" font-family="monospace" font-size="13">React • AWS • Docker</text>
   <text x="714" y="213" fill="#64748B" font-family="monospace" font-size="13">Terraform • Kubernetes</text>
