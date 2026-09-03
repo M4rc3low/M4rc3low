@@ -1,0 +1,70 @@
+<svg width="1000" height="690" viewBox="0 0 1000 690" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Painel profissional de Marcelo Gomes">
+  <rect width="1000" height="690" rx="22" fill="#0d1117"/>
+  <rect x="1" y="1" width="998" height="688" rx="21" fill="none" stroke="#30363d"/>
+  <rect width="1000" height="8" rx="4" fill="#7c3aed"/>
+
+  <text x="48" y="65" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">GitHub Engineering Dashboard</text>
+  <text x="48" y="96" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="16">Marcelo Gomes  •  Software Development  •  Cloud  •  DevOps</text>
+
+  <rect x="48" y="132" width="210" height="92" rx="12" fill="#161b22" stroke="#30363d"/>
+  <circle cx="72" cy="160" r="6" fill="#58a6ff"/>
+  <text x="88" y="165" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Projetos públicos</text>
+  <text x="68" y="204" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">12+</text>
+
+  <rect x="278" y="132" width="210" height="92" rx="12" fill="#161b22" stroke="#30363d"/>
+  <circle cx="302" cy="160" r="6" fill="#3fb950"/>
+  <text x="318" y="165" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Projetos em destaque</text>
+  <text x="298" y="204" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">5</text>
+
+  <rect x="508" y="132" width="210" height="92" rx="12" fill="#161b22" stroke="#30363d"/>
+  <circle cx="532" cy="160" r="6" fill="#a371f7"/>
+  <text x="548" y="165" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Trilha atual</text>
+  <text x="528" y="204" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Cloud + DevOps</text>
+
+  <rect x="738" y="132" width="214" height="92" rx="12" fill="#161b22" stroke="#30363d"/>
+  <circle cx="762" cy="160" r="6" fill="#e3b341"/>
+  <text x="778" y="165" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Abordagem</text>
+  <text x="758" y="197" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Build → Deploy</text>
+  <text x="758" y="216" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Observe → Improve</text>
+
+  <text x="48" y="280" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Ecossistema técnico</text>
+
+  <rect x="48" y="304" width="438" height="166" rx="14" fill="#161b22" stroke="#30363d"/>
+  <text x="70" y="338" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">Software Development</text>
+  <text x="70" y="369" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="14">React  •  JavaScript  •  Node.js  •  Java</text>
+  <text x="70" y="398" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="14">HTML  •  CSS  •  Tailwind  •  Vite</text>
+  <text x="70" y="427" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="14">MySQL  •  PostgreSQL  •  APIs  •  Dashboards</text>
+  <text x="70" y="452" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">Aplicações orientadas a problemas reais e experiência do usuário</text>
+
+  <rect x="514" y="304" width="438" height="166" rx="14" fill="#161b22" stroke="#30363d"/>
+  <text x="536" y="338" fill="#a371f7" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">Cloud &amp; DevOps</text>
+  <text x="536" y="369" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="14">AWS  •  Docker  •  Kubernetes  •  Terraform</text>
+  <text x="536" y="398" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="14">GitHub Actions  •  Linux  •  Git  •  CI/CD</text>
+  <text x="536" y="427" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="14">Grafana  •  Zabbix  •  Observabilidade</text>
+  <text x="536" y="452" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">Infraestrutura, automação, monitoramento e evolução operacional</text>
+
+  <text x="48" y="526" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Projetos que contam a história do portfólio</text>
+
+  <circle cx="61" cy="562" r="5" fill="#58a6ff"/>
+  <text x="78" y="567" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">PeritoLex</text>
+  <text x="184" y="567" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">LegalTech • React • organização de processos e prazos</text>
+
+  <circle cx="61" cy="596" r="5" fill="#3fb950"/>
+  <text x="78" y="601" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">GeoTerritórios</text>
+  <text x="184" y="601" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Mapas • dados • Leaflet • dashboards</text>
+
+  <circle cx="514" cy="562" r="5" fill="#e3b341"/>
+  <text x="531" y="567" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">AMM Materiais</text>
+  <text x="660" y="567" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">produto aplicado a negócio real</text>
+
+  <circle cx="514" cy="596" r="5" fill="#a371f7"/>
+  <text x="531" y="601" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">AWS Monitoring</text>
+  <text x="660" y="601" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Docker • Zabbix • Grafana • PostgreSQL</text>
+
+  <circle cx="61" cy="630" r="5" fill="#a371f7"/>
+  <text x="78" y="635" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Terraform AWS Lab</text>
+  <text x="220" y="635" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13">Infrastructure as Code • AWS</text>
+
+  <text x="48" y="670" fill="#6e7681" font-family="Segoe UI,Arial,sans-serif" font-size="11">Dashboard hospedado no próprio repositório para maior estabilidade.</text>
+  <text x="952" y="670" text-anchor="end" fill="#6e7681" font-family="Segoe UI,Arial,sans-serif" font-size="11">github.com/M4rc3low</text>
+</svg>
