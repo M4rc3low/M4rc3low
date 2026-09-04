@@ -28,7 +28,7 @@ $ currently-learning
 AWS • Docker • Kubernetes • Terraform • CI/CD • Observability
 
 $ approach
-Build → Measure → Automate → Improve
+Build → Test → Deploy → Observe → Improve
 ```
 
 ## 🧰 Stack & ferramentas
@@ -59,11 +59,23 @@ Build → Measure → Automate → Improve
 
 | Projeto | O que demonstra | Tecnologias / foco |
 | --- | --- | --- |
-| [⚖️ **PeritoLex**](https://github.com/M4rc3low/peritolex-app) | Organização de processos, prazos, documentos e alertas em uma aplicação orientada a produtividade | React, Vite, Tailwind, TanStack Query, Recharts |
-| [🗺️ **GeoTerritórios**](https://github.com/M4rc3low/geoterritorios-marcelo-app) | Organização territorial, mapas, indicadores e visualização geográfica de dados | React, Leaflet, TanStack Query, Recharts |
-| [🏗️ **AMM Materiais de Construção**](https://github.com/M4rc3low/amm-materiais-construcao) | Aplicação de tecnologia em um negócio real, presença digital e experiência do cliente | HTML, CSS, JavaScript, Docker, GitHub Actions |
+| [⚖️ **PeritoLex**](https://github.com/M4rc3low/peritolex-app) | Organização de processos, prazos e alertas com pipeline automatizada de qualidade | React, Vite, Tailwind, Docker, GitHub Actions |
+| [🗺️ **GeoTerritórios**](https://github.com/M4rc3low/geoterritorios-marcelo-app) | Organização territorial, mapas e indicadores com validação automatizada | React, Leaflet, Docker, GitHub Actions |
+| [📋 **Pioneiro Pro**](https://github.com/M4rc3low/pioneiro-pro-app) | Organização operacional, acompanhamento de dados e produtividade | React, TanStack Query, Recharts, Docker, CI |
+| [🏗️ **AMM Materiais de Construção**](https://github.com/M4rc3low/amm-materiais-construcao) | Tecnologia aplicada a um negócio real, presença digital e ferramentas práticas | HTML, CSS, JavaScript, Docker, GitHub Actions |
 | [☁️ **AWS Monitoring Lab**](https://github.com/M4rc3low/aws-monitoring-lab) | Observabilidade e monitoramento de infraestrutura | Docker Compose, PostgreSQL, Zabbix, Grafana, AWS |
 | [🏗️ **Terraform AWS Lab**](https://github.com/M4rc3low/terraform-aws-lab) | Infraestrutura reproduzível e versionada em nuvem | Terraform, AWS, Infrastructure as Code |
+
+## 🧪 Engenharia aplicada nos projetos
+
+Nos repositórios principais, procuro documentar e validar não apenas a interface, mas também o processo de engenharia:
+
+- **Smoke tests** para detectar regressões estruturais simples
+- **ESLint e typecheck** para qualidade estática
+- **Build automatizado** para validar a aplicação
+- **Docker** para execução reproduzível
+- **GitHub Actions** para CI em pushes e pull requests
+- **Documentação de segurança** para evitar exposição de credenciais e dados reais
 
 ## ☁️ Cloud & DevOps lab
 
@@ -81,21 +93,22 @@ O GitHub também funciona como meu laboratório técnico. Aqui estou construindo
 
 ```mermaid
 flowchart LR
-    A[Software Development] --> B[Containers]
-    B --> C[Cloud AWS]
-    C --> D[Infrastructure as Code]
-    D --> E[CI/CD]
-    E --> F[Observability]
-    F --> G[Kubernetes]
+    A[Software Development] --> B[Testing]
+    B --> C[Containers]
+    C --> D[Cloud AWS]
+    D --> E[Infrastructure as Code]
+    E --> F[CI/CD]
+    F --> G[Observability]
+    G --> H[Kubernetes]
 ```
 
-> Meu objetivo não é apenas acumular tecnologias, mas entender como aplicações são **construídas, entregues, executadas, monitoradas e evoluídas** em ambientes reais.
+> Meu objetivo não é apenas acumular tecnologias, mas entender como aplicações são **construídas, testadas, entregues, executadas, monitoradas e evoluídas** em ambientes reais.
 
 ---
 
 <div align="center">
 
-### ⚡ Build. Deploy. Observe. Improve.
+### ⚡ Build. Test. Deploy. Observe. Improve.
 
 `React` • `AWS` • `Docker` • `Terraform` • `Kubernetes` • `GitHub Actions`
 
