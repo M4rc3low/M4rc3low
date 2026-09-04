@@ -70,12 +70,12 @@ Build → Test → Deploy → Observe → Improve
 
 Nos repositórios principais, procuro documentar e validar não apenas a interface, mas também o processo de engenharia:
 
-- **Smoke tests** para detectar regressões estruturais simples
-- **ESLint e typecheck** para qualidade estática
+- **Smoke tests e ESLint** para detectar regressões estruturais e problemas de qualidade
 - **Build automatizado** para validar a aplicação
 - **Docker** para execução reproduzível
 - **GitHub Actions** para CI em pushes e pull requests
 - **Documentação de segurança** para evitar exposição de credenciais e dados reais
+- **Evolução de tipagem** registrada como roadmap onde a base ainda é JavaScript/JSX
 
 ## ☁️ Cloud & DevOps lab
 
