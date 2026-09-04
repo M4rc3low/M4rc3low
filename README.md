@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-M4rc3low-181717?style=for-the-badge&logo=github)](https://github.com/M4rc3low)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://m4rc3low.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-s-gomes/)
 [![Profile Views](https://komarev.com/ghpvc/?username=M4rc3low&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/M4rc3low)
 
 </div>
@@ -60,7 +61,7 @@ Build → Measure → Automate → Improve
 | --- | --- | --- |
 | [⚖️ **PeritoLex**](https://github.com/M4rc3low/peritolex-app) | Organização de processos, prazos, documentos e alertas em uma aplicação orientada a produtividade | React, Vite, Tailwind, TanStack Query, Recharts |
 | [🗺️ **GeoTerritórios**](https://github.com/M4rc3low/geoterritorios-marcelo-app) | Organização territorial, mapas, indicadores e visualização geográfica de dados | React, Leaflet, TanStack Query, Recharts |
-| [🏗️ **AMM Materiais de Construção**](https://github.com/M4rc3low/amm-materiais-construcao) | Aplicação de tecnologia em um negócio real, presença digital e experiência do cliente | React, Vite, Tailwind CSS |
+| [🏗️ **AMM Materiais de Construção**](https://github.com/M4rc3low/amm-materiais-construcao) | Aplicação de tecnologia em um negócio real, presença digital e experiência do cliente | HTML, CSS, JavaScript, Docker, GitHub Actions |
 | [☁️ **AWS Monitoring Lab**](https://github.com/M4rc3low/aws-monitoring-lab) | Observabilidade e monitoramento de infraestrutura | Docker Compose, PostgreSQL, Zabbix, Grafana, AWS |
 | [🏗️ **Terraform AWS Lab**](https://github.com/M4rc3low/terraform-aws-lab) | Infraestrutura reproduzível e versionada em nuvem | Terraform, AWS, Infrastructure as Code |
 
