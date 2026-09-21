@@ -15,7 +15,7 @@
 
 Sou desenvolvedor em evolução contínua, construindo projetos que conectam **desenvolvimento de software, problemas reais de negócio, cloud e DevOps**.
 
-Meu foco atual está em aplicações web modernas, organização e visualização de dados, infraestrutura na AWS, containers, observabilidade e Infrastructure as Code.
+Meu foco atual está em aplicações web e mobile, Python, organização e visualização de dados, infraestrutura na AWS, containers, observabilidade e Infrastructure as Code.
 
 ```text
 $ whoami
@@ -35,10 +35,12 @@ Build → Test → Deploy → Observe → Improve
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,nodejs,html,css,tailwind,java,mysql,docker,kubernetes,aws,terraform,git,github,linux,grafana&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,react,vite,js,nodejs,html,css,tailwind,java,mysql,docker,kubernetes,aws,terraform,git,github,linux,grafana&perline=9)](https://skillicons.dev)
 
 <br/>
 
+![Python](https://img.shields.io/badge/Python-Mobile%20%26%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-Mobile-02569B?style=flat-square)
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,7 +63,8 @@ Build → Test → Deploy → Observe → Improve
 | --- | --- | --- |
 | [⚖️ **PeritoLex**](https://github.com/M4rc3low/peritolex-app) | Organização de processos, prazos e alertas com pipeline automatizada de qualidade | React, Vite, Tailwind, Docker, GitHub Actions |
 | [🗺️ **GeoTerritórios**](https://github.com/M4rc3low/geoterritorios-marcelo-app) | Organização territorial, mapas e indicadores com validação automatizada | React, Leaflet, Docker, GitHub Actions |
-| [📋 **Pioneiro Pro**](https://github.com/M4rc3low/pioneiro-pro-app) | Organização operacional, acompanhamento de dados e produtividade | React, TanStack Query, Recharts, Docker, CI |
+| [📱 **Pioneiro Pro Mobile**](https://github.com/M4rc3low/pioneiro-pro-mobile) | Aplicativo mobile local-first com geolocalização, SQLite, testes e release automatizada | Python, Flet, SQLite, Pytest, Ruff, GitHub Actions |
+| [📋 **Pioneiro Pro Web**](https://github.com/M4rc3low/pioneiro-pro-app) | Organização operacional, acompanhamento de dados e produtividade | React, TanStack Query, Recharts, Docker, CI |
 | [🏗️ **AMM Materiais de Construção**](https://github.com/M4rc3low/amm-materiais-construcao) | Tecnologia aplicada a um negócio real, presença digital e ferramentas práticas | HTML, CSS, JavaScript, Docker, GitHub Actions |
 | [☁️ **AWS Monitoring Lab**](https://github.com/M4rc3low/aws-monitoring-lab) | Observabilidade e monitoramento de infraestrutura | Docker Compose, PostgreSQL, Zabbix, Grafana, AWS |
 | [🏗️ **Terraform AWS Lab**](https://github.com/M4rc3low/terraform-aws-lab) | Infraestrutura reproduzível e versionada em nuvem | Terraform, AWS, Infrastructure as Code |
@@ -70,7 +73,7 @@ Build → Test → Deploy → Observe → Improve
 
 Nos repositórios principais, procuro documentar e validar não apenas a interface, mas também o processo de engenharia:
 
-- **Smoke tests e ESLint** para detectar regressões estruturais e problemas de qualidade
+- **Pytest, Ruff, smoke tests e ESLint** para detectar regressões estruturais e problemas de qualidade
 - **Build automatizado** para validar a aplicação
 - **Docker** para execução reproduzível
 - **GitHub Actions** para CI em pushes e pull requests
@@ -110,6 +113,6 @@ flowchart LR
 
 ### ⚡ Build. Test. Deploy. Observe. Improve.
 
-`React` • `AWS` • `Docker` • `Terraform` • `Kubernetes` • `GitHub Actions`
+`Python` • `React` • `AWS` • `Docker` • `Terraform` • `Kubernetes` • `GitHub Actions`
 
 </div>
