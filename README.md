@@ -35,7 +35,7 @@ Build → Test → Deploy → Observe → Improve
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,vite,js,nodejs,html,css,tailwind,java,mysql,docker,kubernetes,aws,terraform,git,github,linux,grafana&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,java,react,vite,js,nodejs,html,css,tailwind,mysql,docker,kubernetes,aws,terraform,git,github,linux,grafana&perline=9)](https://skillicons.dev)
 
 <br/>
 
@@ -61,6 +61,7 @@ Build → Test → Deploy → Observe → Improve
 
 | Projeto | O que demonstra | Tecnologias / foco |
 | --- | --- | --- |
+| [🌾 **AgroControl**](https://github.com/M4rc3low/AgroControl) | Plataforma modular com backend .NET, inteligência Python, telemetria Java, operação offline e arquitetura cloud-native | C#, .NET 10, Python, FastAPI, Java, Spring Boot, React, PostGIS, Kubernetes |
 | [⚖️ **PeritoLex**](https://github.com/M4rc3low/peritolex-app) | Organização de processos, prazos e alertas com pipeline automatizada de qualidade | React, Vite, Tailwind, Docker, GitHub Actions |
 | [🗺️ **GeoTerritórios**](https://github.com/M4rc3low/geoterritorios-marcelo-app) | Organização territorial, mapas e indicadores com validação automatizada | React, Leaflet, Docker, GitHub Actions |
 | [📱 **Pioneiro Pro Mobile**](https://github.com/M4rc3low/pioneiro-pro-mobile) | Aplicativo mobile local-first com geolocalização, SQLite, testes e release automatizada | Python, Flet, SQLite, Pytest, Ruff, GitHub Actions |
@@ -73,10 +74,10 @@ Build → Test → Deploy → Observe → Improve
 
 Nos repositórios principais, procuro documentar e validar não apenas a interface, mas também o processo de engenharia:
 
-- **Pytest, Ruff, smoke tests e ESLint** para detectar regressões estruturais e problemas de qualidade
+- **xUnit, Pytest, Ruff, Vitest, smoke tests e ESLint** para detectar regressões estruturais e problemas de qualidade
 - **Build automatizado** para validar a aplicação
 - **Docker** para execução reproduzível
-- **GitHub Actions** para CI em pushes e pull requests
+- **GitHub Actions e CodeQL** para CI e análise automatizada em projetos maiores
 - **Documentação de segurança** para evitar exposição de credenciais e dados reais
 - **Evolução de tipagem** registrada como roadmap onde a base ainda é JavaScript/JSX
 
@@ -113,6 +114,6 @@ flowchart LR
 
 ### ⚡ Build. Test. Deploy. Observe. Improve.
 
-`Python` • `React` • `AWS` • `Docker` • `Terraform` • `Kubernetes` • `GitHub Actions`
+`C#/.NET` • `Python` • `Java` • `React` • `AWS` • `Docker` • `Kubernetes` • `GitHub Actions`
 
 </div>
