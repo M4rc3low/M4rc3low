@@ -57,6 +57,25 @@ Build → Test → Deploy → Observe → Improve
 
 </div>
 
+## 🖼️ Galeria visual
+
+Uma amostra das **capas conceituais autorais** dos projetos (ilustrações, não screenshots de aplicações em execução).
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/M4rc3low/AgroControl"><img width="100%" src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/agrocontrol.svg" alt="Capa visual ilustrativa de AgroControl"><br><b>AgroControl</b></a></td>
+<td width="33%" align="center"><a href="https://github.com/M4rc3low/pioneiro-pro-mobile"><img width="100%" src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/pioneiro-pro-mobile.svg" alt="Capa visual ilustrativa de Pioneiro Pro Mobile"><br><b>Pioneiro Pro Mobile</b></a></td>
+<td width="33%" align="center"><a href="https://github.com/M4rc3low/peritolex-app"><img width="100%" src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/peritolex.svg" alt="Capa visual ilustrativa de PeritoLex"><br><b>PeritoLex</b></a></td>
+</tr>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/M4rc3low/geoterritorios-marcelo-app"><img width="100%" src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/geoterritorios.svg" alt="Capa visual ilustrativa de GeoTerritórios"><br><b>GeoTerritórios</b></a></td>
+<td width="33%" align="center"><a href="https://github.com/M4rc3low/amm-materiais-construcao"><img width="100%" src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/amm-materiais.svg" alt="Capa visual ilustrativa de AMM Materiais"><br><b>AMM Materiais</b></a></td>
+<td width="33%" align="center"><a href="https://github.com/M4rc3low/aws-monitoring-lab"><img width="100%" src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/aws-monitoring.svg" alt="Capa visual ilustrativa de AWS Monitoring Lab"><br><b>AWS Monitoring Lab</b></a></td>
+</tr>
+</table>
+
+➡️ **[Ver a galeria completa de 15 capas e todos os projetos](https://m4rc3low.github.io/projetos.html)**
+
 ## 🚀 Projetos em destaque
 
 | Projeto | O que demonstra | Tecnologias / foco |
